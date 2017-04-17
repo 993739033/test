@@ -5,4 +5,7 @@ package com.example.test;
  */
 
 public class addtest {
+/**
+ * 这是测试合并 添加的代码
+ */
 }
